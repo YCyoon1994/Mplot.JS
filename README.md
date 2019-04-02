@@ -32,7 +32,7 @@ YoungChae Yoon in SNU Material data and informatics lab.
 * [SNU M-dil](http://mtcg.snu.ac.kr) - Material Computing and deep learning lab
 ## NEWS 
 
-2019. 4. 2. Material Structure Visualizer updated
+2019/4/2 Material Structure Visualizer updated
 
 ## License
 

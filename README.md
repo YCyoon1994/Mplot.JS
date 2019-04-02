@@ -1,5 +1,5 @@
-
-# SNU material data center
+# **Mplot JS** (Material plot JS library)
+## Powered by SNU material data center
 
 ## Introduction
 
@@ -30,7 +30,9 @@ sudo yum install SnuMDC.tar.gz
 YoungChae Yoon in SNU Material data and informatics lab.
 
 * [SNU M-dil](http://mtcg.snu.ac.kr) - Material Computing and deep learning lab
-* [Fill-in](http://withtogether.co.kr) - Super Technology with emotion group
+## NEWS 
+
+2019. 4. 2. Material Structure Visualizer updated
 
 ## License
 
